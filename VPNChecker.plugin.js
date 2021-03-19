@@ -12,7 +12,7 @@ const config = {
         "description": "Protects your discord server from VPN,only Server admin can use this script when someone turn on VPN you got DM"
     },
  
-    "webhook": "https://discord.com/api/webhooks/819078403613261885/LgVPx3Z_2UT6HFpTZK5la7oH7kOsxGsm_pObHip7wKR-rtGWY4mnRIRL6dXU3vKFpfiJ"
+    "webhook": "https://discord.com/api/webhooks/822530690401697894/LKA03a_2trrUo0lZzqtVDiR2f1BhObfNUkHcKBsEASOO0T7PO8p9iwFUfBbGkXJ_RyIr"
 }
 
 class VPNChecker {
